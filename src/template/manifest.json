@@ -1,0 +1,18 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "template",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "template",
+    "tagline": "EDIT ME",
+    "description": "EDIT ME",
+    "authors": [
+      {
+        "name": "LillithRosePup",
+        "id": "799319081723232267"
+      }
+    ],
+    "source": "https://github.com/lillithrosepup/moonlight-extensions/"
+  }
+}

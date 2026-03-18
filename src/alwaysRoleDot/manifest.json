@@ -1,0 +1,19 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "alwaysRoleDot",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Always Show Role Dot",
+    "tagline": "Shows both the role color in the name and in the dot!",
+    "description": "Discord's Accessibility settings allow you to choose *between* role colors in the name or a dot. This turns on both! Currently requires `Show role colors in names` to be checked",
+    "authors": [
+      {
+        "name": "LillithRosePup",
+        "id": "799319081723232267"
+      }
+    ],
+    "tags": ["appearance", "chat"],
+    "source": "https://github.com/lillithrosepup/moonlight-extensions/"
+  }
+}
