@@ -1,0 +1,28 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "quickGifPicker",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "settings": {
+    "category": {
+      "displayName": "Category",
+      "type": "select",
+      "options": ["Favorites", "Search", "Home"],
+      "default": "Favorites",
+      "advice": "none"
+    }
+  },
+  "meta": {
+    "name": "Quick Gif Picker",
+    "tagline": "Customize what category the gif picker starts in!",
+    "description": "",
+    "authors": [
+      {
+        "name": "LillithRosePup",
+        "id": "799319081723232267"
+      }
+    ],
+    "tags": ["qol", "chat"],
+    "source": "https://github.com/lillithrosepup/moonlight-extensions/"
+  }
+}
